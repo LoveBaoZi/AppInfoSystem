@@ -16,6 +16,9 @@ import cn.app.pojo.BackendUser;
  */
 public class SysBackendInterceptor extends HandlerInterceptorAdapter {
 
+	
+	
+	
 	/**
 	 * 进行判断的方法 true 执行通过 false 跳转指定的页面
 	 */
